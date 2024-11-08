@@ -1,0 +1,5 @@
+1722187979605	Rename Java project 's3event-consumer-lambda-app'
+1722188474327	Delete resource 'lambda-func-maven-cloudwatch-app'
+1722188673436	Delete resource 's3event-consumer-lambda-app-XXXXXXXX'
+1722194730651	Delete resource 'sqs-success-fail-consumer-local-demo'
+1722196252806	Delete resource 'sqsevent-consumer-lambda-app'

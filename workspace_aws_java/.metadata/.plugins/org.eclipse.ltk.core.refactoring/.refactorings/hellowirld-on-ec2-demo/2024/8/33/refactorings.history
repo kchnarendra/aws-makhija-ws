@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;HelloWorldController.java&apos; to &apos;jenkins-CICD-ec2-ecr-demo/src/main/java/com.narendra&apos;&#x0D;&#x0A;- Original project: &apos;hellowirld-on-ec2-demo&apos;&#x0D;&#x0A;- Destination element: &apos;jenkins-CICD-ec2-ecr-demo/src/main/java/com.narendra&apos;&#x0D;&#x0A;- Original element: &apos;com.narendra.controller.HelloWorldController.java&apos;" description="Copy compilation unit" destination="=jenkins-CICD-ec2-ecr-demo/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.narendra" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.narendra.controller{HelloWorldController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1723907629703" units="1" version="1.0"/>
+</session>

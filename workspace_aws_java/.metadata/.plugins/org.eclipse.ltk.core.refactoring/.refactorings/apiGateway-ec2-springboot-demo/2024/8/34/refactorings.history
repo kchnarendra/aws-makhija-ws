@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;apiGateway-ec2-springboot-demo/Readme&apos; to &apos;READMEfile&apos;" description="Rename resource &apos;Readme&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Readme" name="READMEfile" stamp="1723990262934" updateReferences="true"/>
+</session>

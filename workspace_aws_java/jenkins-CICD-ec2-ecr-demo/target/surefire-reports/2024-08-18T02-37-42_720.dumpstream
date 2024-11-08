@@ -1,0 +1,5 @@
+# Created at 2024-08-18T02:37:43.126
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Narendra Work\Learning and Practice\workspace_aws_java\jenkins-CICD-ec2-ecr-demo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

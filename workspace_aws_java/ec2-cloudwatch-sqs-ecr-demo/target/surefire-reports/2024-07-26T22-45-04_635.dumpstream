@@ -1,0 +1,5 @@
+# Created at 2024-07-26T22:45:05.889
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Narendra Work\Learning and Practice\workspace_aws_java\ec2-cloudwatch-sqs-ecr-demo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

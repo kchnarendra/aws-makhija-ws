@@ -1,0 +1,17 @@
+scp -i <pem_key> ApiGateway-1.0.jar ec2-user@<ec2_public_ip>:/home/ec2-user
+scp -i cicd-key-pair.pem apiGateway-ec2-springboot-demo-0.1.jar ec2-user@13.233.151.235:/home/ec2-user
+
+ssh -i  <pem_key> ec2-user@<ec2_public_ip>
+ssh -i cicd-key-pair.pem ec2-user@13.233.151.235
+
+
+
+
+sudo yum update -y 
+
+sudo yum install java-17-amazon-corretto-headless
+
+
+nohup java -jar apiGateway-ec2-springboot-demo-0.1.jar  & > log.log
+ 
+ps -eaf|grep java
